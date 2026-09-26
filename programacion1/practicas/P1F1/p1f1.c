@@ -1,8 +1,7 @@
-#include <studio.h>
+#include <stdio.h>
 #include <windows.h>
 int main () {
 printf ("Hola Mundo!\n");
-printf ("pulse INTRO para finalizar\n");
-getchar();
+system ("pause");
 return 0;
 }
