@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <windows.h>
 int main () {
-printf ("Hola Mundo!\n");
-system ("pause");
+printf ("Hola Mundo!");
+system("pause");
 return 0;
 }
