@@ -12,5 +12,7 @@ if (numero % 2== 0){
 else{
     printf ("Este numero es impar\n");
 }
+
+
 return 0;
 }
